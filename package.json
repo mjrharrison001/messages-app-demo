@@ -1,5 +1,6 @@
 {
   "name": "messages-app-demo",
+  "author": "Michael Harrison",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -28,7 +29,7 @@
     "express": "^4.15.3",
     "path": "^0.12.7",
     "rxjs": "^5.1.0",
-    "zone.js": "^0.8.4"
+    "bootstrap": "^3.3.6"
   },
   "devDependencies": {
     "@types/jasmine": "2.5.38",
